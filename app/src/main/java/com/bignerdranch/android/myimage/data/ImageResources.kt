@@ -9,7 +9,6 @@ val imageResources = listOf(
     R.drawable.image3,
     R.drawable.image4,
     R.drawable.image5,
-    R.drawable.image6
 )
 
 
